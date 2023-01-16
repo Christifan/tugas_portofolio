@@ -1,0 +1,73 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #bcd7ee;
+}
+
+.carousel {
+  padding-top: 3rem;
+}
+
+#karya {
+  background-color: #bcd7ee;
+}
+
+#tentang {
+  background-color: #bcd7ee;
+}
+
+#visimisi {
+  background-color: #bcd7ee;
+}
+
+/* Content */
+.judul {
+  padding-top: 20px;
+  letter-spacing: -4px;
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+
+.post {
+  padding-bottom: 10px;
+}
+
+.post .title {
+  padding-top: 10px;
+  letter-spacing: -2px;
+  font-size: 28px;
+}
+
+.post .title a {
+  border: none;
+  color: #272727;
+  text-decoration: none;
+}
+
+.post .meta {
+  padding-bottom: 10px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-style: italic;
+}
+
+.post .meta a {
+}
+
+.post .entry {
+  text-align: justify;
+  margin-bottom: 25px;
+  padding: 10px 0px 0px 0px;
+}
+
+.post img {
+  border: #1b5803 1px solid;
+  width: 200px;
+  height: 150px;
+}
